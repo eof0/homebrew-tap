@@ -2,6 +2,6 @@ homebrew-tap
 
 ###install
 ```
-brew tap rywils/tap
-brew install fafind
+brew tap eof0/tap
+brew install faf
 ```
